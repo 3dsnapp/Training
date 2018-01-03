@@ -8,3 +8,4 @@ D:\Max\Homeworks\1. ModuleDiv\Moduledivide\Moduledivide\obj\Debug\Moduledivide.p
 D:\NICE\GIT\Training\Moduledivide\Moduledivide\bin\Debug\Moduledivide.exe.config
 D:\NICE\GIT\Training\Moduledivide\Moduledivide\obj\Debug\Moduledivide.exe
 D:\NICE\GIT\Training\Moduledivide\Moduledivide\obj\Debug\Moduledivide.pdb
+D:\NICE\GIT\Training\Moduledivide\Moduledivide\obj\Debug\Moduledivide.csprojResolveAssemblyReference.cache
